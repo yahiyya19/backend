@@ -22,7 +22,7 @@ async function connectToDatabase() {
 
 // Basic routes
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('Hello World!!!!');
 });
 
 app.post('/pp', (req, res) => {
