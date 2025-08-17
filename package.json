@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahiyya19/backend.git"
+  },
+  "author": "yahiyya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yahiyya19/backend/issues"
+  },
+  "homepage": "https://github.com/yahiyya19/backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.18.0"
+  }
+}
